@@ -1,5 +1,7 @@
 <h1 align="center"> ✧ ˚ 　· 　　 .　𝕎𝕖𝕝𝕔𝕠𝕞𝕖　. 　　 · 　˚ ✧ </h1>
 
+----
+
 ## 💡 𝙰𝚋𝚘𝚞𝚝 𝚖𝚎
 - 🎓 **Background:** IT in ISU (bachelor's), Big Data and AI in ISU (major)
 - 💻 **Interests:** AI, Infographics, Teaching
