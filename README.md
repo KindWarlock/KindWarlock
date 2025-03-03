@@ -1,7 +1,5 @@
 <div align="center" >✨ <i>Any sufficiently advanced technology is indistinguishable from magic</i> ✨</div>
 
----
-
 ## 💡 About Me
 - 🎓 **Background:** IT in ISU (bachelor's), Big Data and AI in ISU (major)
 - 💻 **Interests:** AI, Infographics, Teaching
